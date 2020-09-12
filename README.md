@@ -1,6 +1,10 @@
 # flutter_firebase_auth_mvvm
 
-Flutter Firebase Auth MVVM by AZ Ackmatoff.
+Flutter Firebase Auth MVVM by AZ Ackmatoff.<br>
+Email sign in and create<br>
+Google sign in<br>
+Facebook login<br>
+Simple Firestore CRUD<br>
 
 ## Getting Started
 
